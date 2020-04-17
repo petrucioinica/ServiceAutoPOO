@@ -1,0 +1,43 @@
+Avarii:
+ 	Frane:
+		Placute Uzate(Fata / Spate - V/M):
+			*Placuta de frana (*2/*4)
+		Discuri Uzate(Oricare 4 -V/ Oricare 2 - M)
+			*Discuri de frana
+		Lant Tocit (B)
+			*Lant (Reparat)
+		Lant Lipsa (B)
+			*Lant (Inlocuit)
+		Defectiune Capitala
+			*FARA SOLUTIE
+ 	Motor:
+		Nivel Ulei Scazut (V/M)
+			*Ulei Motor
+		Carburator Murdar (V)
+			*Carburator
+		Motor Topit(V/M)
+			*BlocMotor
+			*Garnituri
+			*Pistoane
+	Directie:
+		Ghidon Stramb(M/B)
+			*Ghidon
+		Roata Stramba
+			*Roata
+		Defectiune Capitala
+			*FARA SOLUTIE	
+	
+ 	Noxe:
+		Vehiculul Arde Ulei(V/M)
+			*Chiuloasa	
+		Vehicul anterior an 2000 (V/M)
+			*Curatare
+		
+	Caroserie (V):
+			Corodata de rugina
+				*chit
+			Stramba (aripi stanga/dreapta, fata/spate, bara, capota):
+				-Foarte Stramba
+					*aripa/*bara/*capota reparata
+				-Asa si asa(Per component)
+					*aripa/*bara/*capota inlocuita
